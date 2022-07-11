@@ -1,0 +1,44 @@
+﻿<?xml version="1.0" encoding="utf-8"?>
+<Project ToolsVersion="Current" xmlns="http://schemas.microsoft.com/developer/msbuild/2003">
+  <ItemGroup>
+    <Compile Update="AddHousekeepingSchedule.vb">
+      <SubType>Form</SubType>
+    </Compile>
+    <Compile Update="CheckIn.vb">
+      <SubType>Form</SubType>
+    </Compile>
+    <Compile Update="CheckOut.vb">
+      <SubType>Form</SubType>
+    </Compile>
+    <Compile Update="CleaningRoom.vb">
+      <SubType>Form</SubType>
+    </Compile>
+    <Compile Update="MainForm1.vb">
+      <SubType>Form</SubType>
+    </Compile>
+    <Compile Update="MasterEmployee.vb">
+      <SubType>Form</SubType>
+    </Compile>
+    <Compile Update="MasterItem.vb">
+      <SubType>Form</SubType>
+    </Compile>
+    <Compile Update="MasterRoomType.vb">
+      <SubType>Form</SubType>
+    </Compile>
+    <Compile Update="LoginForm.vb">
+      <SubType>Form</SubType>
+    </Compile>
+    <Compile Update="MasterRoom.vb">
+      <SubType>Form</SubType>
+    </Compile>
+    <Compile Update="MasterRoomType1.vb">
+      <SubType>Form</SubType>
+    </Compile>
+    <Compile Update="RequestAdditionalItems.vb">
+      <SubType>Form</SubType>
+    </Compile>
+    <Compile Update="Reservation.vb">
+      <SubType>Form</SubType>
+    </Compile>
+  </ItemGroup>
+</Project>
